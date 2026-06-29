@@ -56,10 +56,6 @@ Open:
 
 http://127.0.0.1:5000
 
-## 📸 Screenshots
-
-(Add screenshots here after uploading to GitHub.)
 
 ## 👨‍💻 Author
-
 Sidharth Kaimal
